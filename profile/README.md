@@ -1,6 +1,6 @@
-# Public code used for demonstrations and public consuption
+# Public code used for demonstrations and public consumption
 
-This is a collection of repositories that are available for general consuption.  It is primerally used for external demoonstrations and User Groups.  Feel free to try ouyt the various examples.
+This is a collection of public repositories that are available to developer for reference purposes. It's main use is for demonstrations at User Groups and technology meetups in the Perth city area.  Feel free to try the various examples avilable, instructions should be shown in the README.MD file in each repository.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgreene-insight&label=Profile%20views&color=0e75b6&style=flat" alt="rgreene-insight" /> </p>
 
